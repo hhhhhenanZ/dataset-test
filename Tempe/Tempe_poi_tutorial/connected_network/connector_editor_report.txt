@@ -1,0 +1,37 @@
+======================================================================
+CONNECTOR EDITOR - EXECUTION REPORT
+======================================================================
+Execution time: 2025-12-09 13:47:42
+Working directory: C:\Users\hnzhu\ASU Dropbox\Henan Zhu\TAPLite Project\Nov_zone2assignment\1209_poi_network\connected_network
+
+CONFIGURATION:
+  Accessibility threshold: 10.0% (27 zones)
+  Search radius: 3000m
+  Target connectors per zone: 6
+    - Type 1: 1 connectors
+    - Type 2: 1 connectors
+    - Type 3: 2 connectors
+    - Type 4+: 2 connectors
+
+RESULTS:
+  Problematic zones identified: 1
+  New connector links generated: 8
+  Total links in updated file: 5201
+
+======================================================================
+NEW CONNECTORS BY ZONE
+======================================================================
+
+Zone 143: 4 new connectors
+----------------------------------------------------------------------
+  Type 1 (Highway/Freeway): 1 connectors
+    → Origin Node 410: 2302.12m
+  Type 3 (Collector): 2 connectors
+    → Origin Node 976: 2338.09m
+    → Origin Node 538: 2365.36m
+  Type 4+ (Local): 1 connectors
+    → Origin Node 2461 (Type 4): 2962.51m
+
+======================================================================
+END OF REPORT
+======================================================================
